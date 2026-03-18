@@ -121,14 +121,6 @@ ab-testing-facebook-vs-google-ads
 
 ---
 
-## Additional Resources
-
-> Due to GitHub file size limitations, the **Power BI dashboard and dataset** are hosted on Hugging Face.
-
-(Add your Hugging Face link here)
-
----
-
 ## Conclusion
 This project demonstrates a complete **end-to-end marketing campaign analysis workflow**:
 
